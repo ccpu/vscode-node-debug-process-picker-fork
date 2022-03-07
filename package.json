@@ -1,6 +1,6 @@
 {
-	"name": "vscode-node-debug-process-picker",
-	"displayName": "vscode-node-debug-process-picker",
+	"name": "vscode-node-debug-process-picker-fork",
+	"displayName": "vscode-node-debug-process-picker-fork",
 	"description": "Provides configurable pick-process command while debugging Node.js program in vscode.",
 	"keywords": [
 		"vscode",
